@@ -11,7 +11,7 @@ This is a password generator that provides a random password based on your perso
 
 Github: https://github.com/einfalt4/password-thingy-thing
 
-Application URL: https://einfalt4.github.io/PW-regen/
+Application URL: https://einfalt4.github.io/password-thingy-thing/
 
 ## Other
 
